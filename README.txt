@@ -1,5 +1,6 @@
 ## Report on how to get the R200 work on Odroid_XU4
 
+Chengda Ji and Changxin Yan
 
 # Step 1: Build the Ubuntu 16.04 lts onto a micro usb card/emmc card
 
@@ -59,4 +60,5 @@ The origin source code is:  https://github.com/jim1993/realsense_camera_odroid.g
 
 # Step 7 plug in the r200 and enjoy!
 
-
+Accknowledge:
+thankd to jim1993 https://github.com/jim1993/realsense_camera_odroid.git
